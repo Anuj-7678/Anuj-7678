@@ -50,6 +50,4 @@ Excited to team up on creative and insightful data projects 🤝
 ### 💻 IDEs / Editors
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab)
-
-![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen)
+![Google Colab](https://img.shi
