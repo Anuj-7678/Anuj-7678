@@ -12,8 +12,8 @@ Excited to team up on creative and insightful data projects 🤝
 
 
 <p align="center">
-  <a href="#">🌐 Portfolio</a> |
-  <a href="#">💼 LinkedIn</a> 
+  <a href="https://anujportfolio-gilt.vercel.app/">🌐 Portfolio</a> |
+  <a href="https://www.linkedin.com/in/anuj-daphale-b91aa527b/">💼 LinkedIn</a> 
 </p>
 
 
